@@ -108,7 +108,7 @@ public class AccesosBD implements Serializable{
 			}
 			return cod_nivel;
 		}
-
+ 
 		/**
 		 * Crea un objeto Nivel con la información del nivel referenciado por parámetros que saca de la BD
 		 * @param nivel Código del nivel
